@@ -2,7 +2,7 @@
 
 Note Spark is a simple and modern note-taking app built with React Native. It lets you create, edit, and delete notes with offline storage. Supports light, dark, and system themes, plus a clean UI with quick access via a floating action button. Perfect for students and professionals.
 
-**Features**
+# **Features**
 
 Create, edit, and delete notes
 Offline storage (SQLite/AsyncStorage)
@@ -12,21 +12,21 @@ Floating Action Button for quick note creation
 Settings screen to switch theme preference
 Delete confirmation and clean UI actions
 
-**Tech Stack**
+# **Tech Stack**
 
 React Native (UI development)
 React Navigation (stack navigation & routing)
 React Native Paper (UI components)
 AsyncStorage / SQLite (local storage)
 
-**Screens**
+# **Screens**
 
 Login Screen – Demo login with email & password
 Home Screen – Displays all notes with edit & delete actions
 Note Editor – Add or update notes with a save button
 Settings Screen – Toggle between Light, Dark, and System themes
 
-**Prerequisites**
+# **Prerequisites**
 
 Make sure you have the React Native CLI environment set up:
 Node.js (LTS recommended) and npm or Yarn
@@ -35,8 +35,7 @@ Android Studio with SDK + an emulator, or a real Android device with USB debuggi
 Xcode (macOS only) for iOS + CocoaPods (sudo gem install cocoapods)
 
 
-**Quick Start (both platforms)
-**
+# **Quick Start (both platforms)**
 Clone or download this repository, then open a terminal in the project folder.
 
 cd Note-Spark-App
